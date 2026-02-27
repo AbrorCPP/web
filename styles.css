@@ -1,9 +1,8 @@
 h1 {
-    font-family: sans-serif;
+    font-family: Times New Roman;
     color: #d93838;
 }
 p {
-    font-family: sans-serif;
     font-size: 18px;
     font-weight: 500;
     color: #1669d5;
@@ -13,7 +12,7 @@ p {
     opacity: 80%;
 }
 body {
-    background-color: rgba(231, 169, 117, 0.45);
+    background-color: rgba(255, 246, 242, 0.45);
 }
 span {
     font-family: sans-serif;
