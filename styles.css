@@ -1,10 +1,43 @@
 h1 {
     font-family: sans-serif;
-    color: #423c3c;
+    color: #d93838;
 }
 p {
-    font-family:sams-serif;
-    font-size: 32px;
+    font-family: sans-serif;
+    font-size: 18px;
     font-weight: 500;
-    color: #33d933;
+    color: #1669d5;
+}
+.st1{
+    background-image: url("images/onering.jpg");
+    opacity: 80%;
+}
+body {
+    background-color: rgba(231, 169, 117, 0.45);
+}
+span {
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #03be03;
+    text-transform: uppercase;
+}
+.long{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #0a56a9;
+}
+.got{
+    background-image: url("images/gotwal.jpg");
+}
+.got_text{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+}
+video {
+    color : yellow;
+    border-block-color: #d93838;
 }
